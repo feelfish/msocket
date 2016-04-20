@@ -1,0 +1,1 @@
+This is a simple tcp/ip socket interface for MATLAB.  It allows sending and receiving of MATLAB variables t other MATLAB sessions as well as sending and receiving of raw data.
